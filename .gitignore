@@ -1,0 +1,6 @@
+secret.py
+venv
+data/*.dat
+output/*.png
+output/*.dat
+temp
